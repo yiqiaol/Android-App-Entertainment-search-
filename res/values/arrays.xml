@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mCategory">
+        <item>Default</item>
+        <item>Airport</item>
+        <item>Amusement</item>
+        <item>Aquarium</item>
+        <item>Art Gallery</item>
+        <item>Bakery</item>
+        <item>Bar</item>
+        <item>Beauty Salon</item>
+        <item>Bowling Alley</item>
+        <item>Bus Station</item>
+        <item>Cafe</item>
+        <item>Campground</item>
+        <item>Car Rental</item>
+        <item>Casino</item>
+        <item>Lodging</item>
+        <item>Movie Theater</item>
+        <item>Museum</item>
+        <item>Night Club</item>
+        <item>Park</item>
+        <item>Parking</item>
+        <item>Restaurant</item>
+        <item>Shopping Mall</item>
+        <item>Stadium</item>
+        <item>Subway Station</item>
+        <item>Taxi Stand</item>
+        <item>Train station</item>
+        <item>Transit Station</item>
+        <item>Travel Agency</item>
+        <item>Zoo</item>
+    </string-array>
+
+    <string-array name="travel_mode">
+        <item>Driving</item>
+        <item>Bicycling</item>
+        <item>Transit</item>
+        <item>Walking</item>
+    </string-array>
+
+    <string-array name="review_type">
+        <item>Google reviews</item>
+        <item>Yelp Reviews</item>
+    </string-array>
+
+    <string-array name="review_order">
+        <item>Default Order</item>
+        <item>Highest Rating</item>
+        <item>Lowest Rating</item>
+        <item>Most Recent</item>
+        <item>Least Recent</item>
+    </string-array>
+
+</resources>
